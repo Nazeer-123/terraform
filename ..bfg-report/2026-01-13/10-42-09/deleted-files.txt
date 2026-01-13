@@ -1,0 +1,1 @@
+b19ca318a3c3a525b8c931be89e7f16fe4fe3a85 806080696 terraform-provider-aws_v6.27.0_x5

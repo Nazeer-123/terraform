@@ -1,0 +1,1 @@
+312fa82f3508a358daf2e9ae9900a34f4b937387 813240504 terraform-provider-aws_v6.28.0_x5
